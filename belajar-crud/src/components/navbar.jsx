@@ -14,7 +14,7 @@ const NavBar = () => {
             <Nav className="me-auto">
               <Nav.Link
                 onClick={() => {
-                  navigate("/home");
+                  navigate("/");
                 }}
               >
                 Home
